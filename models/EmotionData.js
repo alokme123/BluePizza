@@ -34,7 +34,7 @@ var EmotionDataSchema = new Schema(
       }
     },
     "isPresent": {
-      "type": "Boolean"
+      "type": "String"
     }
   });
 //Export model
