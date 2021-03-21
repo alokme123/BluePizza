@@ -18,7 +18,7 @@ The COVID-19 pandemic has affected educational systems worldwide, leading to the
 
 ### Tech Stack
 
-![Stack](https://github.com/alokme123/BluePizza/raw/dyteToBackend/docs/Screenshot%202021-03-21%20at%2010.57.46%20PM.png)
+<img src="https://github.com/alokme123/BluePizza/raw/dyteToBackend/docs/Screenshot%202021-03-21%20at%2010.57.46%20PM.png" width="100" height="100" alt="Tech Stack">
 
 ### Frontend
 ![design](https://github.com/alokme123/BluePizza/raw/dyteToBackend/docs/Screenshot%202021-03-21%20at%2011.02.06%20PM.png)
