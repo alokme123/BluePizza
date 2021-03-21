@@ -21,14 +21,15 @@ The COVID-19 pandemic has affected educational systems worldwide, leading to the
 <img src="https://github.com/alokme123/BluePizza/raw/dyteToBackend/docs/Screenshot%202021-03-21%20at%2010.57.46%20PM.png" width="50%" alt="Tech Stack">
 
 ### Frontend
-<img align="center" src="https://github.com/alokme123/BluePizza/raw/dyteToBackend/docs/Screenshot%202021-03-21%20at%2011.02.06%20PM.png" width="50%" alt="Frontend">
+<p align="center">
+<img src="https://github.com/alokme123/BluePizza/raw/dyteToBackend/docs/Screenshot%202021-03-21%20at%2011.02.06%20PM.png" width="90%" alt="Frontend"></p>
 * Checkout Figma Designs at [Figma](https://www.figma.com/file/5MwzaInpTlzv4zTffyOQwa/BluePizza?node-id=0%3A1)
 * [Frontend Repo](https://github.com/Akshaya-vc/Devspace)
 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-Please make sure you have an organization ID and API Key for your application. These can be obtained from the [developer portal](https://dev.dyte.in) as it includes dyte SDK.
+Please make sure you have an organization ID and API Key for your application. These can be obtained from the [developer portal](https://dev.dyte.in) as it includes dyte SDK as well as a MongoDB URL.
 
 ### Installation
  
