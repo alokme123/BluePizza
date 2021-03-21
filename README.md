@@ -21,7 +21,7 @@ The COVID-19 pandemic has affected educational systems worldwide, leading to the
 <img src="https://github.com/alokme123/BluePizza/raw/dyteToBackend/docs/Screenshot%202021-03-21%20at%2010.57.46%20PM.png" width="50%" alt="Tech Stack">
 
 ### Frontend
-![design](https://github.com/alokme123/BluePizza/raw/dyteToBackend/docs/Screenshot%202021-03-21%20at%2011.02.06%20PM.png)
+<img align="center" src="https://github.com/alokme123/BluePizza/raw/dyteToBackend/docs/Screenshot%202021-03-21%20at%2011.02.06%20PM.png" width="50%" alt="Frontend">
 * Checkout Figma Designs at [Figma](https://www.figma.com/file/5MwzaInpTlzv4zTffyOQwa/BluePizza?node-id=0%3A1)
 * [Frontend Repo](https://github.com/Akshaya-vc/Devspace)
 
