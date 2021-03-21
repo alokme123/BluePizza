@@ -1,65 +1,40 @@
 <!-- PROJECT LOGO -->
 <p align="center">
-  <a href="https://dyte.in">
-    <img src="https://dyte-uploads.s3.ap-south-1.amazonaws.com/dyte-logo-dark.svg" alt="Logo" width="80">
-  </a>
-
-  <h3 align="center">Web integration Example</h3>
+  <img src="https://user-images.githubusercontent.com/72297207/111885990-19ecb900-89f1-11eb-9a32-755f8f3cca5b.png" align="center">
+  <h3 align="center">Lera Backend</h3>
 
   <p align="center">
-    A simple express app which integrates with dyte using REST APIs.
-    <br />
-    <a href="https://docs.dyte.in"><strong>Explore the docs »</strong></a>
+    A MERN Stack App that creates a comprehensive report of an online class after it ends
     <br />
     <br />
-    <a href="https://dyte-web-example.herokuapp.com/">View Demo</a>
-    ·
-    <a href="https://github.com/dyte-in/web-integration-example/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/dyte-in/web-integration-example/issues">Request Feature</a>
+    <a href="https://lera-learn.herokuapp.com/">View Demo</a>
   </p>
 </p>
-
-
-
-
-<!-- TABLE OF CONTENTS -->
-## Table of Contents
-
-* [About the Project](#about-the-project)
-  * [Built With](#built-with)
-* [Getting Started](#getting-started)
-  * [Installation](#installation)
-* [Usage](#usage)
-* [License](#license)
-
-
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-A basic express js project demonstrating how you can integrate your website with dyte.
-![very-basic](docs/site.png)
+The COVID-19 pandemic has affected educational systems worldwide, leading to the near-total closure of schools, universities and colleges. Most governments decided to temporarily close educational institutions in an attempt to curtail the spread of COVID-19. In response to government restrictions most educational institutions have moved to online platforms such as ms teams, zoom and google meet. As students studying in this method of online education we can vouch for how monotonus it is. To overcome this, we intend to create a video-confrencing solution with the help of the dyte platform. This solution, will integrate a set of analytical tools which are aimed to help the teacher understand which parts of their classes were understood well by the students and which parts weren't. This tool will use some image recognition, participation checking algorithms based on unmutes, and random alerts to check if students are attentive to acheive this. The data, will be presented to the teacher in their teacher dashboard in the form of a time vs participation graph. The students will also be provided with a similar graph to scrub through the recordings and find the most important parts of the class faster.
 
-It creates a new dyte meeting and then allows to join it as a participant or a host. A demo is hosted on https://dyte-web-example.herokuapp.com/
+### Tech Stack
 
-### Built With
+![Stack](https://github.com/alokme123/BluePizza/raw/dyteToBackend/docs/Screenshot%202021-03-21%20at%2010.57.46%20PM.png)
 
-* [express-generator](https://expressjs.com/en/starter/generator.html)
-* [dyte-client](https://www.npmjs.com/package/dyte-client)
-* [Pure CSS](https://purecss.io/)
-
+### Frontend
+![design](https://github.com/alokme123/BluePizza/raw/dyteToBackend/docs/Screenshot%202021-03-21%20at%2011.02.06%20PM.png)
+* Checkout Figma Designs at [Figma](https://www.figma.com/file/5MwzaInpTlzv4zTffyOQwa/BluePizza?node-id=0%3A1)
+* [Frontend Repo](https://github.com/Akshaya-vc/Devspace)
 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-Please make sure you have an organization ID and API Key for your application. These can be obtained from the developer portal.
+Please make sure you have an organization ID and API Key for your application. These can be obtained from the [developer portal](https://dev.dyte.in) as it includes dyte SDK.
 
 ### Installation
  
 1. Clone the repo
 ```sh
-git clone https://github.com/dyte-in/web-integration-example.git
+git clone https://github.com/alokme123/bluepizza/tree/dyteToBackend/
 ```
 2. Install NPM packages
 ```sh
@@ -74,14 +49,6 @@ nano .env
 ```sh
 npm start
 ```
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-You can use this example as a reference on how you can integrate your webapp with dyte.
-
-_For documentation on APIs and client SDKs, please refer to our [docs page](https://docs.dyte.in)._
-
 
 <!-- LICENSE -->
 ## License
